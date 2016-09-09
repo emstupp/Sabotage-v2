@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ref\ units\ val\ max\ inBox
+comment0.target=ColorBar(java.lang.String,\ java.lang.String,\ int,\ int,\ Box)
+comment0.text=\r\n\ ColorBar\ Constructor\:\r\n\ just\ calls\ the\ super-class\ 'Bar'\ constructor\ with\ the\ same\ parameters\r\n\r\n\ @param\ ref\ A\ parameter\ to\ be\ used\ as\ the\ title\ for\ the\ bar\r\n\ @param\ units\ A\ parameter\ to\ be\ used\ as\ the\ unit\ of\ measure\ text\ (after\ the\ value\ text)\r\n\ @param\ val\ A\ parameter\ to\ set\ the\ initial\ value\ of\ the\ bar\ \r\n\ @param\ max\ A\ parameter\ to\ set\ the\ maximum\ value\ of\ the\ bar\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\:\r\n\ constantly\ shows\ the\ mseBox\ color\ part\r\n
+numComments=2

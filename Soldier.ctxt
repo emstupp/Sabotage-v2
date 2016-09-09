@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Soldier()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Falls\ from\ the\ sky,\ moves\ towards\ the\ turret\ to\ latch\ on\ to\ it\ and\ try\ to\r\n\ destroy\ it\r\n
+numComments=2

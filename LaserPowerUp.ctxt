@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Randomly\ falls\ from\ the\ sky\ when\ a\ plane\ is\ shot\r\n\ Causes\ the\ turret\ to\ fire\ lasers\ if\ the\ powerup\ is\ hit\r\n
+numComments=1

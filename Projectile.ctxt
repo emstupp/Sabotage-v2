@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Projectile()
+comment0.text=\r\n\ the\ projectile\ is\ provided\ an\ intial\ rotation\ from\ the\ object\ that\ fired\ it.\ This\ impacts\ its\r\n\ directional\ movement.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=distance
+comment2.target=void\ move(int)
+numComments=3

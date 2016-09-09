@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=text\ size
+comment0.target=Text(java.lang.String,\ int)
+comment1.params=text\ size\ framed
+comment1.target=Text(java.lang.String,\ int,\ boolean)
+numComments=2

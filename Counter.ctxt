@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Keeps\ score\ for\ the\ user\r\n\ Planes\ \=\ 10\ pts.\r\n\ Choppers\ \=\ 20\ pts.\r\n\ Soldiers\ \=\ 40\ pts.\r\n
+comment1.params=
+comment1.target=void\ addScore()
+numComments=2

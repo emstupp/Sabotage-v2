@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rotation
+comment0.target=RegularBullet(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=distance
+comment2.target=void\ move(int)
+comment2.text=\r\n\ @param\ distance\ is\ distance\ to\ move\ in\ the\ current\ rotational\ direction\r\n\ current\ Actor.move\ is\ not\ causing\ movement\ in\ rotational\ direction\ so\ I\ rewrote\ it\ here.\r\n
+numComments=3

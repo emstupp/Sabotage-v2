@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Chopper()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ The\ Chopper\ flies\ from\ right\ to\ left\ across\ the\ screen,\ at\ the\ same\ height.\r\n\ Occasionally\ drops\ a\ bomb\ (more\ often\ than\ the\ plane)\r\n
+comment2.params=
+comment2.target=void\ dropBomb()
+comment3.params=
+comment3.target=int\ getMoveSpeed()
+numComments=4

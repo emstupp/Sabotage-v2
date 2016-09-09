@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Turret()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Turret\ wants\ to\ do.\ Take\ user\ input\ and\ either\ move\ the\ turret\ or\r\n\ fire.\r\n
+comment2.params=power
+comment2.target=void\ setPowerUp(PowerUp)
+comment2.text=\r\n\ Sets\ the\ currently\ active\ powerup\r\n\ @param\ The\ powerup\ to\ activate\r\n
+comment3.params=
+comment3.target=void\ fireReg()
+comment3.text=\r\n\ fire()\ causes\ a\ projectile\ to\ be\ spawned,\ in\ the\ direction\ of\ the\ current\ rotational\ angle.\r\n
+comment4.params=
+comment4.target=void\ fireCluster()
+comment4.text=\r\n\ Fires\ three\ bullets\ if\ a\ Cluster\ powerup\ is\ active\r\n\ After\ 30\ cluster\ bullets,\ powerup\ goes\ away\r\n
+comment5.params=
+comment5.target=void\ fireLaser()
+comment5.text=\r\n\ Fires\ a\ laser\ if\ a\ Laser\ powerup\ is\ hit\r\n\ Any\ plane/bomb\ touching\ the\ laser\ is\ destroyed\r\n\ After\ 30\ lasers,\ powerup\ goes\ away\r\n
+comment6.params=
+comment6.target=void\ bombed()
+comment6.text=\r\n\ Causes\ the\ turret\ to\ lose\ health\ if\ it's\ hit\ by\ a\ bomb\r\n\ Causes\ the\ game\ to\ end\ if\ 4\ soldiers\ are\ on\ the\ turret\ or\ if\ health\ runs\ out\r\n
+numComments=7

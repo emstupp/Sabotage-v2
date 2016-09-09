@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Box(java.lang.String)
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=fill
+comment2.target=void\ setFillColor(java.awt.Color)
+numComments=3

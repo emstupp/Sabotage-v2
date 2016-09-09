@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=text\ txtColor\ bgColor
+comment0.target=Button(java.lang.String,\ java.awt.Color,\ java.awt.Color)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=helpText
+comment2.target=void\ setTipText(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getButtonClicked()
+numComments=4

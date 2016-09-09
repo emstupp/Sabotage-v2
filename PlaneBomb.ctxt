@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Falls\ from\ Planes,\ explodes\ when\ shot\ or\ when\ it\ hit\ the\ turret\r\n
+comment1.params=
+comment1.target=void\ explode()
+comment1.text=\r\n\ Make\ an\ explosion.\r\n
+numComments=2

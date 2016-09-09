@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ref\ units\ val\ max
+comment0.target=MseActBar(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ MseActBar\ Constructor\:\r\n\ just\ calls\ the\ super-class\ 'Bar'\ constructor\ with\ the\ same\ parameters\r\n\r\n\ @param\ ref\ A\ parameter\ to\ be\ used\ as\ the\ title\ for\ the\ bar\r\n\ @param\ units\ A\ parameter\ to\ be\ used\ as\ the\ unit\ of\ measure\ text\ (after\ the\ value\ text)\r\n\ @param\ val\ A\ parameter\ to\ set\ the\ initial\ value\ of\ the\ bar\ \r\n\ @param\ max\ A\ parameter\ to\ set\ the\ maximum\ value\ of\ the\ bar\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ act\:\r\n\ allows\ the\ user\ to\ perform\ mouse\ presses\ and\ clicks\ on\ (and\ beside)\ the\ bar\ to\ change\ its\ value\r\n
+numComments=2

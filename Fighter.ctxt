@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fighter()
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ spawnPowerUp()
+comment1.text=\r\n\ Randomly\ spawns\ a\ powerup\ 20%\ of\ the\ time\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ dropBomb()
+numComments=4
